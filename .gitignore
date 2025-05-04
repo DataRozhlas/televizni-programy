@@ -1,0 +1,5 @@
+downloads/
+data_raw/
+data/
+.ipynb_checkpoints/
+*.swp
