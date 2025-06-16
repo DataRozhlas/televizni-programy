@@ -1,5 +1,6 @@
 downloads/
 data_raw/
 data/
+src/
 .ipynb_checkpoints/
 *.swp

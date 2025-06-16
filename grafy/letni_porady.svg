@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 499 1122" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>
+    @font-face {font-family: "Asap"; src: url("https://data.irozhlas.cz/fonty/Asap-VariableFont_wdth,wght.ttf") format("truetype-variations");} 
+    @font-face {font-family: "Noticia Text"; src: url("https://data.irozhlas.cz/fonty/NoticiaText-Regular.ttf") format("truetype-variations"); font-weight: normal; font-style: normal;}
+    @font-face {font-family: "Noticia Text"; src: url("https://data.irozhlas.cz/fonty/NoticiaText-Bold.ttf") format("truetype-variations"); font-weight: bold; font-style: normal;}
+    .role-axis, .role-mark, .role-axis-label, .role-legend {font-family: "Asap", sans-serif} 
+    .mark-group.role-title { font-family: "'Noticia Text'", "Noticia", serif}
+    </style>
+ <g transform="translate(0)">
+  <ns0:rect width="499" height="1105" fill="white" xmlns:ns0="http://www.w3.org/2000/svg"/>
+  <ns1:g transform="translate(191,66)" fill="none" stroke-miterlimit="10" xmlns:ns1="http://www.w3.org/2000/svg">
+   <ns1:g class="mark-group role-frame root" aria-roledescription="group mark container" role="graphics-object">
+    <ns1:g transform="translate(0)">
+     <ns1:path class="background" d="M0.5,0.5h300v1000h-300Z" aria-hidden="true"/>
+     <ns1:g>
+      <ns1:g class="mark-group role-axis" aria-hidden="true">
+       <ns1:g transform="translate(.5 1e3)">
+        <ns1:path class="background" d="M0,0h0v0h0Z" pointer-events="none" aria-hidden="true"/>
+        <ns1:g>
+         <ns1:g class="mark-rule role-axis-grid" pointer-events="none" stroke="#F1D1BB" stroke-opacity=".6" stroke-width=".5">
+          <ns1:line transform="translate(24)" x2="0" y2="-1000"/>
+          <ns1:line transform="translate(53)" x2="0" y2="-1000"/>
+          <ns1:line transform="translate(82)" x2="0" y2="-1000"/>
+          <ns1:line transform="translate(112)" x2="0" y2="-1000"/>
+          <ns1:line transform="translate(141)" x2="0" y2="-1000"/>
+          <ns1:line transform="translate(171)" x2="0" y2="-1000"/>
+          <ns1:line transform="translate(200)" x2="0" y2="-1000"/>
+          <ns1:line transform="translate(229)" x2="0" y2="-1000"/>
+          <ns1:line transform="translate(259)" x2="0" y2="-1000"/>
+          <ns1:line transform="translate(288)" x2="0" y2="-1000"/>
+         </ns1:g>
+        </ns1:g>
+        <ns1:path class="foreground" d="" display="none" pointer-events="none" aria-hidden="true"/>
+       </ns1:g>
+      </ns1:g>
+      <ns1:g class="mark-group role-axis" aria-hidden="true">
+       <ns1:g transform="translate(.5 .5)">
+        <ns1:path class="background" d="M0,0h0v0h0Z" pointer-events="none" aria-hidden="true"/>
+        <ns1:g>
+         <ns1:g class="mark-rule role-axis-grid" pointer-events="none" stroke="#F1D1BB" stroke-opacity=".6" stroke-width=".5">
+          <ns1:line transform="translate(0,10)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,30)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,50)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,70)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,90)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,110)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,130)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,150)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,170)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,190)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,210)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,230)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,250)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,270)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,290)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,310)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,330)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,350)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,370)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,390)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,410)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,430)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,450)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,470)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,490)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,510)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,530)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,550)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,570)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,590)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,610)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,630)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,650)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,670)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,690)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,710)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,730)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,750)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,770)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,790)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,810)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,830)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,850)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,870)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,890)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,910)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,930)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,950)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,970)" x2="300" y2="0"/>
+          <ns1:line transform="translate(0,990)" x2="300" y2="0"/>
+         </ns1:g>
+        </ns1:g>
+        <ns1:path class="foreground" d="" display="none" pointer-events="none" aria-hidden="true"/>
+       </ns1:g>
+      </ns1:g>
+      <ns1:g class="mark-group role-axis" aria-label="X-axis titled 'týden v roce' for a linear scale with values from 1 to 52" aria-roledescription="axis" role="graphics-symbol">
+       <ns1:g transform="translate(.5 1e3)" pointer-events="none">
+        <ns1:path class="background" d="M0,0h0v0h0Z" aria-hidden="true"/>
+        <ns1:g>
+         <ns1:g class="mark-rule role-axis-tick" stroke="#DCDDD6">
+          <ns1:line transform="translate(24)" x2="0" y2="5"/>
+          <ns1:line transform="translate(53)" x2="0" y2="5"/>
+          <ns1:line transform="translate(82)" x2="0" y2="5"/>
+          <ns1:line transform="translate(112)" x2="0" y2="5"/>
+          <ns1:line transform="translate(141)" x2="0" y2="5"/>
+          <ns1:line transform="translate(171)" x2="0" y2="5"/>
+          <ns1:line transform="translate(200)" x2="0" y2="5"/>
+          <ns1:line transform="translate(229)" x2="0" y2="5"/>
+          <ns1:line transform="translate(259)" x2="0" y2="5"/>
+          <ns1:line transform="translate(288)" x2="0" y2="5"/>
+         </ns1:g>
+         <ns1:g class="mark-text role-axis-label" fill="#292829" font-family="Asap" font-size="9px" text-anchor="middle">
+          <ns1:text transform="translate(24 14)">5</ns1:text>
+          <ns1:text transform="translate(53 14)">10</ns1:text>
+          <ns1:text transform="translate(82 14)">15</ns1:text>
+          <ns1:text transform="translate(112 14)">20</ns1:text>
+          <ns1:text transform="translate(141 14)">25</ns1:text>
+          <ns1:text transform="translate(171 14)">30</ns1:text>
+          <ns1:text transform="translate(200,14)">35</ns1:text>
+          <ns1:text transform="translate(229 14)">40</ns1:text>
+          <ns1:text transform="translate(259 14)">45</ns1:text>
+          <ns1:text transform="translate(288 14)">50</ns1:text>
+         </ns1:g>
+         <ns1:g class="mark-rule role-axis-domain">
+          <ns1:line transform="translate(0)" x2="300" y2="0" stroke="#888" stroke-opacity="0"/>
+         </ns1:g>
+         <ns1:g class="mark-text role-axis-title">
+          <ns1:text transform="translate(150,32)" fill="#000" font-family="Asap" font-size="9px" font-weight="lighter" text-anchor="middle">týden v roce</ns1:text>
+         </ns1:g>
+        </ns1:g>
+        <ns1:path class="foreground" d="" display="none" aria-hidden="true"/>
+       </ns1:g>
+      </ns1:g>
+      <ns1:g class="mark-group role-axis" aria-label="Y-axis for a discrete scale with 50 values: Bobule, Skryté zločiny osmašedesátého, Za oponou, Indiana Jones a dobyvatelé ztracené archy, 2Bobule, ending with Policejní akademie 7: Moskevská mise" aria-roledescription="axis" role="graphics-symbol">
+       <ns1:g transform="translate(.5 .5)" pointer-events="none">
+        <ns1:path class="background" d="M0,0h0v0h0Z" aria-hidden="true"/>
+        <ns1:g>
+         <ns1:g class="mark-rule role-axis-tick" stroke="#DCDDD6">
+          <ns1:line transform="translate(0,10)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,30)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,50)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,70)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,90)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,110)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,130)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,150)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,170)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,190)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,210)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,230)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,250)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,270)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,290)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,310)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,330)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,350)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,370)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,390)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,410)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,430)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,450)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,470)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,490)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,510)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,530)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,550)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,570)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,590)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,610)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,630)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,650)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,670)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,690)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,710)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,730)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,750)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,770)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,790)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,810)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,830)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,850)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,870)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,890)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,910)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,930)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,950)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,970)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,990)" x2="-5" y2="0"/>
+         </ns1:g>
+         <ns1:g class="mark-text role-axis-label" fill="#292829" font-family="Asap" font-size="9px" text-anchor="end">
+          <ns1:text transform="translate(-7,13)">Bobule</ns1:text>
+          <ns1:text transform="translate(-7,33)">Skryté zločiny osmašedesátého</ns1:text>
+          <ns1:text transform="translate(-7,53)">Za oponou</ns1:text>
+          <ns1:text transform="translate(-7,73)">Indiana Jones a dobyvatelé ztracené archy</ns1:text>
+          <ns1:text transform="translate(-7,93)">2Bobule</ns1:text>
+          <ns1:text transform="translate(-7,113)">Indiana Jones a Poslední křížová výprava</ns1:text>
+          <ns1:text transform="translate(-7,133)">Indiana Jones a Chrám zkázy</ns1:text>
+          <ns1:text transform="translate(-7,153)">Indiana Jones a Království křišťálové lebky</ns1:text>
+          <ns1:text transform="translate(-7,173)">Malý pitaval z velkého města</ns1:text>
+          <ns1:text transform="translate(-7,193)">Petrolejový princ</ns1:text>
+          <ns1:text transform="translate(-7,213)">Zralé víno</ns1:text>
+          <ns1:text transform="translate(-7,233)">Bouřlivé víno</ns1:text>
+          <ns1:text transform="translate(-7,253)">Rebelové</ns1:text>
+          <ns1:text transform="translate(-7,273)">Mladé víno</ns1:text>
+          <ns1:text transform="translate(-7,293)">Jurský park</ns1:text>
+          <ns1:text transform="translate(-7,313)">Jurský park 3</ns1:text>
+          <ns1:text transform="translate(-7,333)">Ztracený svět: Jurský park</ns1:text>
+          <ns1:text transform="translate(-7,353)">Vinnetou</ns1:text>
+          <ns1:text transform="translate(-7,373)">Dannyho parťáci 3</ns1:text>
+          <ns1:text transform="translate(-7,393)">Poklad na Stříbrném jezeře</ns1:text>
+          <ns1:text transform="translate(-7,413)">Chalupáři</ns1:text>
+          <ns1:text transform="translate(-7,433)">Vinnetou a míšenka Apanači</ns1:text>
+          <ns1:text transform="translate(-7,453)">Dobrá Voda</ns1:text>
+          <ns1:text transform="translate(-7,473)">Vinnetou - Poslední výstřel</ns1:text>
+          <ns1:text transform="translate(-7,493)">Mezi supy</ns1:text>
+          <ns1:text transform="translate(-7,513)">Vinnetou - Rudý gentleman</ns1:text>
+          <ns1:text transform="translate(-7,533)">Železná maska</ns1:text>
+          <ns1:text transform="translate(-7,553)">Pan Tau</ns1:text>
+          <ns1:text transform="translate(-7,573)">Bídníci</ns1:text>
+          <ns1:text transform="translate(-7,593)">Discopříběh 2</ns1:text>
+          <ns1:text transform="translate(-7,613)">Oscar</ns1:text>
+          <ns1:text transform="translate(-7,633)">Piti piti pa</ns1:text>
+          <ns1:text transform="translate(-7,653)">Policejní akademie 3: Znovu ve výcviku</ns1:text>
+          <ns1:text transform="translate(-7,673)">Policejní akademie 6: Město v obležení</ns1:text>
+          <ns1:text transform="translate(-7,693)">Policejní akademie 5: Nasazení: Miami Beach</ns1:text>
+          <ns1:text transform="translate(-7,713)">Policejní akademie 4: Občanská patrola</ns1:text>
+          <ns1:text transform="translate(-7,733)">Sissi - Osudová léta císařovny</ns1:text>
+          <ns1:text transform="translate(-7,753)">Správná dvojka</ns1:text>
+          <ns1:text transform="translate(-7,773)">Sissi - Mladá císařovna</ns1:text>
+          <ns1:text transform="translate(-7,793)">Angelika a král</ns1:text>
+          <ns1:text transform="translate(-7,813)">Angelika, markýza andělů</ns1:text>
+          <ns1:text transform="translate(-7,833)">Báječná Angelika</ns1:text>
+          <ns1:text transform="translate(-7,853)">Křidýlko nebo stehýnko?</ns1:text>
+          <ns1:text transform="translate(-7,873)">Spongebob v kalhotách</ns1:text>
+          <ns1:text transform="translate(-7,893)">Policejní akademie</ns1:text>
+          <ns1:text transform="translate(-7,913)">Návštěvníci</ns1:text>
+          <ns1:text transform="translate(-7,933)">Policejní akademie 2: Jejich první nasazení</ns1:text>
+          <ns1:text transform="translate(-7,953)">Jsou hvězdy, které nehasnou</ns1:text>
+          <ns1:text transform="translate(-7,973)">Nezkrotná Angelika</ns1:text>
+          <ns1:text transform="translate(-7,993)">Policejní akademie 7: Moskevská mise</ns1:text>
+         </ns1:g>
+         <ns1:g class="mark-rule role-axis-domain">
+          <ns1:line transform="translate(0)" x2="0" y2="1000" stroke="#888" stroke-opacity="0"/>
+         </ns1:g>
+        </ns1:g>
+        <ns1:path class="foreground" d="" display="none" aria-hidden="true"/>
+       </ns1:g>
+      </ns1:g>
+      <ns1:g class="mark-rect role-mark layer_0_marks" fill="#D5B574" aria-roledescription="rect mark container" role="graphics-object">
+       <ns1:path d="M147.05882352941177,0h58.823529411764696v1000h-58.823529411764696Z" opacity=".53" aria-label="zacatek: 26; konec: 36; prazdniny: 0.555555555556" aria-roledescription="rect mark" role="graphics-symbol"/>
+       <ns1:path d="M147.05882352941177,0h58.823529411764696v1000h-58.823529411764696Z" opacity=".8" aria-label="zacatek: 26; konec: 36; prazdniny: 1" aria-roledescription="rect mark" role="graphics-symbol"/>
+       <ns1:path d="M147.05882352941177,0h58.823529411764696v1000h-58.823529411764696Z" opacity=".8" aria-label="zacatek: 26; konec: 36; prazdniny: 1" aria-roledescription="rect mark" role="graphics-symbol"/>
+       <ns1:path d="M147.05882352941177,0h58.823529411764696v1000h-58.823529411764696Z" opacity=".8" aria-label="zacatek: 26; konec: 36; prazdniny: 1" aria-roledescription="rect mark" role="graphics-symbol"/>
+       <ns1:path d="M147.05882352941177,0h58.823529411764696v1000h-58.823529411764696Z" opacity=".8" aria-label="zacatek: 26; konec: 36; prazdniny: 1" aria-roledescription="rect mark" role="graphics-symbol"/>
+       <ns1:path d="M147.05882352941177,0h58.823529411764696v1000h-58.823529411764696Z" opacity=".8" aria-label="zacatek: 26; konec: 36; prazdniny: 1" aria-roledescription="rect mark" role="graphics-symbol"/>
+       <ns1:path d="M147.05882352941177,0h58.823529411764696v1000h-58.823529411764696Z" opacity=".8" aria-label="zacatek: 26; konec: 36; prazdniny: 1" aria-roledescription="rect mark" role="graphics-symbol"/>
+       <ns1:path d="M147.05882352941177,0h58.823529411764696v1000h-58.823529411764696Z" opacity=".8" aria-label="zacatek: 26; konec: 36; prazdniny: 1" aria-roledescription="rect mark" role="graphics-symbol"/>
+       <ns1:path d="M147.05882352941177,0h58.823529411764696v1000h-58.823529411764696Z" opacity=".8" aria-label="zacatek: 26; konec: 36; prazdniny: 1" aria-roledescription="rect mark" role="graphics-symbol"/>
+       <ns1:path d="M147.05882352941177,0h58.823529411764696v1000h-58.823529411764696Z" opacity=".8" aria-label="zacatek: 26; konec: 36; prazdniny: 1" aria-roledescription="rect mark" role="graphics-symbol"/>
+       <ns1:path d="M147.05882352941177,0h58.823529411764696v1000h-58.823529411764696Z" opacity=".3" aria-label="zacatek: 26; konec: 36; prazdniny: 0.166666666667" aria-roledescription="rect mark" role="graphics-symbol"/>
+      </ns1:g>
+      <ns1:g class="mark-symbol role-mark layer_1_marks" stroke-width="2" aria-roledescription="symbol mark container" role="graphics-object">
+       <ns1:path transform="translate(159 70)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Indiana Jones a dobyvatelé ztracené archy; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 170)" d="M7.338,0A7.338,7.338,0,1,1,-7.338,0A7.338,7.338,0,1,1,7.338,0" fill="#788A98" opacity=".7" aria-label="tyden: 27; nazev: Malý pitaval z velkého města; kategorie: serial; len: 18" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(94 990)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 17; nazev: Policejní akademie 7: Moskevská mise; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(218 410)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 38; nazev: Chalupáři; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(82 290)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 15; nazev: Jurský park; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 950)" d="M4.976,0A4.976,4.976,0,1,1,-4.976,0A4.976,4.976,0,1,1,4.976,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 7" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 330)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Ztracený svět: Jurský park; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(294 470)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 51; nazev: Vinnetou - Poslední výstřel; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 410)" d="M6.578,0A6.578,6.578,0,1,1,-6.578,0A6.578,6.578,0,1,1,6.578,0" fill="#788A98" opacity=".7" aria-label="tyden: 31; nazev: Chalupáři; kategorie: serial; len: 14" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(294 970)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 51; nazev: Nezkrotná Angelika; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(241 410)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 42; nazev: Chalupáři; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 50)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Za oponou; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 690)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Policejní akademie 5: Nasazení: Miami Beach; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(218 170)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 38; nazev: Malý pitaval z velkého města; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(218 190)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 38; nazev: Petrolejový princ; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(35 670)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 7; nazev: Policejní akademie 6: Město v obležení; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(200,730)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 35; nazev: Sissi - Osudová léta císařovny; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(82 710)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 15; nazev: Policejní akademie 4: Občanská patrola; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 470)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Vinnetou - Poslední výstřel; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 910)" d="M4.413,0A4.413,4.413,0,1,1,-4.413,0A4.413,4.413,0,1,1,4.413,0" fill="#788A98" opacity=".7" aria-label="tyden: 28; nazev: Návštěvníci; kategorie: serial; len: 5" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 710)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Policejní akademie 4: Občanská patrola; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 970)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Nezkrotná Angelika; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 410)" d="M5.235,0A5.235,5.235,0,1,1,-5.235,0A5.235,5.235,0,1,1,5.235,0" fill="#788A98" opacity=".7" aria-label="tyden: 34; nazev: Chalupáři; kategorie: serial; len: 8" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(135 550)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 24; nazev: Pan Tau; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(288 790)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 50; nazev: Angelika a král; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 330)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Ztracený svět: Jurský park; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 910)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 31; nazev: Návštěvníci; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 550)" d="M5.482,0A5.482,5.482,0,1,1,-5.482,0A5.482,5.482,0,1,1,5.482,0" fill="#788A98" opacity=".7" aria-label="tyden: 32; nazev: Pan Tau; kategorie: serial; len: 9" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 210)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Zralé víno; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(200,950)" d="M5.235,0A5.235,5.235,0,1,1,-5.235,0A5.235,5.235,0,1,1,5.235,0" fill="#D15A41" opacity=".7" aria-label="tyden: 35; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 8" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 290)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Jurský park; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 850)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Křidýlko nebo stehýnko?; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 950)" d="M5.944,0A5.944,5.944,0,1,1,-5.944,0A5.944,5.944,0,1,1,5.944,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 11" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 230)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Bouřlivé víno; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 310)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Jurský park 3; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 190)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Petrolejový princ; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(206 10)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 36; nazev: Bobule; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(18 710)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 4; nazev: Policejní akademie 4: Občanská patrola; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(294 730)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 51; nazev: Sissi - Osudová léta císařovny; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(47 950)" d="M4.413,0A4.413,4.413,0,1,1,-4.413,0A4.413,4.413,0,1,1,4.413,0" fill="#D15A41" opacity=".7" aria-label="tyden: 9; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 5" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 210)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Zralé víno; kategorie: film; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(118 630)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 21; nazev: Piti piti pa; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(206 750)" d="M5.235,0A5.235,5.235,0,1,1,-5.235,0A5.235,5.235,0,1,1,5.235,0" fill="#788A98" opacity=".7" aria-label="tyden: 36; nazev: Správná dvojka; kategorie: serial; len: 8" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 950)" d="M5.718,0A5.718,5.718,0,1,1,-5.718,0A5.718,5.718,0,1,1,5.718,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 10" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 750)" d="M4.976,0A4.976,4.976,0,1,1,-4.976,0A4.976,4.976,0,1,1,4.976,0" fill="#788A98" opacity=".7" aria-label="tyden: 30; nazev: Správná dvojka; kategorie: serial; len: 7" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(71 590)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 13; nazev: Discopříběh 2; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 490)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Mezi supy; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(229 170)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 40; nazev: Malý pitaval z velkého města; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 70)" d="M4.976,0A4.976,4.976,0,1,1,-4.976,0A4.976,4.976,0,1,1,4.976,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Indiana Jones a dobyvatelé ztracené archy; kategorie: film; len: 7" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(235 410)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 41; nazev: Chalupáři; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(53 770)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 10; nazev: Sissi - Mladá císařovna; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 610)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Oscar; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(206 590)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 36; nazev: Discopříběh 2; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(247 710)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 43; nazev: Policejní akademie 4: Občanská patrola; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 110)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Indiana Jones a Poslední křížová výprava; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 950)" d="M5.235,0A5.235,5.235,0,1,1,-5.235,0A5.235,5.235,0,1,1,5.235,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 8" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 330)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Ztracený svět: Jurský park; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(12 430)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 3; nazev: Vinnetou a míšenka Apanači; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 350)" d="M5.482,0A5.482,5.482,0,1,1,-5.482,0A5.482,5.482,0,1,1,5.482,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Vinnetou; kategorie: film; len: 9" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(76 710)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 14; nazev: Policejní akademie 4: Občanská patrola; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(88 610)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 16; nazev: Oscar; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 950)" d="M4.976,0A4.976,4.976,0,1,1,-4.976,0A4.976,4.976,0,1,1,4.976,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 7" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 710)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Policejní akademie 4: Občanská patrola; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(53 910)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 10; nazev: Návštěvníci; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 310)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Jurský park 3; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(47 610)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 9; nazev: Oscar; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 490)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Mezi supy; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 590)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Discopříběh 2; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(59 910)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 11; nazev: Návštěvníci; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(5.9 410)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 2; nazev: Chalupáři; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(206 170)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 36; nazev: Malý pitaval z velkého města; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 770)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Sissi - Mladá císařovna; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 890)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Policejní akademie; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 290)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Jurský park; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(65 930)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 12; nazev: Policejní akademie 2: Jejich první nasazení; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 350)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 26; nazev: Vinnetou; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(29 190)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 6; nazev: Petrolejový princ; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 410)" d="M7.516,0A7.516,7.516,0,1,1,-7.516,0A7.516,7.516,0,1,1,7.516,0" fill="#788A98" opacity=".7" aria-label="tyden: 29; nazev: Chalupáři; kategorie: serial; len: 19" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 710)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Policejní akademie 4: Občanská patrola; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 650)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Policejní akademie 3: Znovu ve výcviku; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(24 910)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 5; nazev: Návštěvníci; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 790)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Angelika a král; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(71 250)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 13; nazev: Rebelové; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(141 950)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 25; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 150)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Indiana Jones a Království křišťálové lebky; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 370)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Dannyho parťáci 3; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 130)" d="M4.976,0A4.976,4.976,0,1,1,-4.976,0A4.976,4.976,0,1,1,4.976,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Indiana Jones a Chrám zkázy; kategorie: film; len: 7" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 530)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Železná maska; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 870)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#788A98" opacity=".7" aria-label="tyden: 31; nazev: Spongebob v kalhotách; kategorie: serial; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(300,630)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 52; nazev: Piti piti pa; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(135 410)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 24; nazev: Chalupáři; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(200,30)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 35; nazev: Skryté zločiny osmašedesátého; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 950)" d="M4.413,0A4.413,4.413,0,1,1,-4.413,0A4.413,4.413,0,1,1,4.413,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 5" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(135 950)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 24; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 690)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Policejní akademie 5: Nasazení: Miami Beach; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 610)" d="M4.413,0A4.413,4.413,0,1,1,-4.413,0A4.413,4.413,0,1,1,4.413,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Oscar; kategorie: film; len: 5" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 630)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Piti piti pa; kategorie: film; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(129 750)" d="M6.163,0A6.163,6.163,0,1,1,-6.163,0A6.163,6.163,0,1,1,6.163,0" fill="#788A98" opacity=".7" aria-label="tyden: 23; nazev: Správná dvojka; kategorie: serial; len: 12" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 110)" d="M4.976,0A4.976,4.976,0,1,1,-4.976,0A4.976,4.976,0,1,1,4.976,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Indiana Jones a Poslední křížová výprava; kategorie: film; len: 7" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(112 870)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#788A98" opacity=".7" aria-label="tyden: 20; nazev: Spongebob v kalhotách; kategorie: serial; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 10)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Bobule; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(118 550)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 21; nazev: Pan Tau; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(276 770)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 48; nazev: Sissi - Mladá císařovna; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 450)" d="M4.976,0A4.976,4.976,0,1,1,-4.976,0A4.976,4.976,0,1,1,4.976,0" fill="#788A98" opacity=".7" aria-label="tyden: 32; nazev: Dobrá Voda; kategorie: serial; len: 7" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 310)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Jurský park 3; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(288 810)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 50; nazev: Angelika, markýza andělů; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 510)" d="M4.976,0A4.976,4.976,0,1,1,-4.976,0A4.976,4.976,0,1,1,4.976,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Vinnetou - Rudý gentleman; kategorie: film; len: 7" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(141 550)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 25; nazev: Pan Tau; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 170)" d="M6.776,0A6.776,6.776,0,1,1,-6.776,0A6.776,6.776,0,1,1,6.776,0" fill="#788A98" opacity=".7" aria-label="tyden: 34; nazev: Malý pitaval z velkého města; kategorie: serial; len: 15" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 590)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Discopříběh 2; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 890)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Policejní akademie; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(35 910)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 7; nazev: Návštěvníci; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 910)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 27; nazev: Návštěvníci; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 870)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 27; nazev: Spongebob v kalhotách; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 550)" d="M5.235,0A5.235,5.235,0,1,1,-5.235,0A5.235,5.235,0,1,1,5.235,0" fill="#788A98" opacity=".7" aria-label="tyden: 27; nazev: Pan Tau; kategorie: serial; len: 8" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 290)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Jurský park; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(241 270)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 42; nazev: Mladé víno; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(294 830)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 51; nazev: Báječná Angelika; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 930)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Policejní akademie 2: Jejich první nasazení; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(124 750)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 22; nazev: Správná dvojka; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 470)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Vinnetou - Poslední výstřel; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 450)" d="M5.235,0A5.235,5.235,0,1,1,-5.235,0A5.235,5.235,0,1,1,5.235,0" fill="#788A98" opacity=".7" aria-label="tyden: 28; nazev: Dobrá Voda; kategorie: serial; len: 8" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(300,970)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 52; nazev: Nezkrotná Angelika; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 670)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Policejní akademie 6: Město v obležení; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 870)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#788A98" opacity=".7" aria-label="tyden: 34; nazev: Spongebob v kalhotách; kategorie: serial; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(71 650)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 13; nazev: Policejní akademie 3: Znovu ve výcviku; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 650)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Policejní akademie 3: Znovu ve výcviku; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(112 550)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 20; nazev: Pan Tau; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 570)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Bídníci; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 630)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Piti piti pa; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 250)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Rebelové; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 810)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 26; nazev: Angelika, markýza andělů; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(253 850)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 44; nazev: Křidýlko nebo stehýnko?; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 230)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Bouřlivé víno; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 190)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Petrolejový princ; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 570)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Bídníci; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(282 450)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 49; nazev: Dobrá Voda; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 910)" d="M4.413,0A4.413,4.413,0,1,1,-4.413,0A4.413,4.413,0,1,1,4.413,0" fill="#788A98" opacity=".7" aria-label="tyden: 30; nazev: Návštěvníci; kategorie: serial; len: 5" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(135 750)" d="M5.718,0A5.718,5.718,0,1,1,-5.718,0A5.718,5.718,0,1,1,5.718,0" fill="#788A98" opacity=".7" aria-label="tyden: 24; nazev: Správná dvojka; kategorie: serial; len: 10" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(118 870)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 21; nazev: Spongebob v kalhotách; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(212 410)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 37; nazev: Chalupáři; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 870)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#788A98" opacity=".7" aria-label="tyden: 32; nazev: Spongebob v kalhotách; kategorie: serial; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 890)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Policejní akademie; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 50)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Za oponou; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 470)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Vinnetou - Poslední výstřel; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(200,970)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 35; nazev: Nezkrotná Angelika; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 350)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Vinnetou; kategorie: film; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(200,170)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 35; nazev: Malý pitaval z velkého města; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(41 950)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 8; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(135 870)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 24; nazev: Spongebob v kalhotách; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 290)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Jurský park; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(235 750)" d="M5.718,0A5.718,5.718,0,1,1,-5.718,0A5.718,5.718,0,1,1,5.718,0" fill="#788A98" opacity=".7" aria-label="tyden: 41; nazev: Správná dvojka; kategorie: serial; len: 10" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 550)" d="M5.482,0A5.482,5.482,0,1,1,-5.482,0A5.482,5.482,0,1,1,5.482,0" fill="#788A98" opacity=".7" aria-label="tyden: 31; nazev: Pan Tau; kategorie: serial; len: 9" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 130)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Indiana Jones a Chrám zkázy; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 210)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Zralé víno; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 30)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Skryté zločiny osmašedesátého; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(200,590)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 35; nazev: Discopříběh 2; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(212 750)" d="M5.718,0A5.718,5.718,0,1,1,-5.718,0A5.718,5.718,0,1,1,5.718,0" fill="#788A98" opacity=".7" aria-label="tyden: 37; nazev: Správná dvojka; kategorie: serial; len: 10" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(212 450)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 37; nazev: Dobrá Voda; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 730)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Sissi - Osudová léta císařovny; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(294 810)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 51; nazev: Angelika, markýza andělů; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(129 550)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 23; nazev: Pan Tau; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 710)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Policejní akademie 4: Občanská patrola; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(135 570)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 24; nazev: Bídníci; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 390)" d="M5.482,0A5.482,5.482,0,1,1,-5.482,0A5.482,5.482,0,1,1,5.482,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Poklad na Stříbrném jezeře; kategorie: film; len: 9" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 330)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Ztracený svět: Jurský park; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(94 310)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 17; nazev: Jurský park 3; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 730)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Sissi - Osudová léta císařovny; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(206 990)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 36; nazev: Policejní akademie 7: Moskevská mise; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(82 850)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 15; nazev: Křidýlko nebo stehýnko?; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(200,670)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 35; nazev: Policejní akademie 6: Město v obležení; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(124 290)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 22; nazev: Jurský park; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(135 170)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 24; nazev: Malý pitaval z velkého města; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 370)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Dannyho parťáci 3; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 650)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Policejní akademie 3: Znovu ve výcviku; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(288 970)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 50; nazev: Nezkrotná Angelika; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 850)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Křidýlko nebo stehýnko?; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(294 510)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 51; nazev: Vinnetou - Rudý gentleman; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 910)" d="M4.413,0A4.413,4.413,0,1,1,-4.413,0A4.413,4.413,0,1,1,4.413,0" fill="#788A98" opacity=".7" aria-label="tyden: 29; nazev: Návštěvníci; kategorie: serial; len: 5" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 330)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Ztracený svět: Jurský park; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 550)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 33; nazev: Pan Tau; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(265 630)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 46; nazev: Piti piti pa; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(94 670)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 17; nazev: Policejní akademie 6: Město v obležení; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(141 170)" d="M4.413,0A4.413,4.413,0,1,1,-4.413,0A4.413,4.413,0,1,1,4.413,0" fill="#788A98" opacity=".7" aria-label="tyden: 25; nazev: Malý pitaval z velkého města; kategorie: serial; len: 5" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 290)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 26; nazev: Jurský park; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(24 950)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 5; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 170)" d="M7.86,0A7.86,7.86,0,1,1,-7.86,0A7.86,7.86,0,1,1,7.86,0" fill="#788A98" opacity=".7" aria-label="tyden: 33; nazev: Malý pitaval z velkého města; kategorie: serial; len: 21" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 390)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Poklad na Stříbrném jezeře; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 150)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Indiana Jones a Království křišťálové lebky; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 530)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Železná maska; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(229 750)" d="M4.413,0A4.413,4.413,0,1,1,-4.413,0A4.413,4.413,0,1,1,4.413,0" fill="#788A98" opacity=".7" aria-label="tyden: 40; nazev: Správná dvojka; kategorie: serial; len: 5" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(59 530)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 11; nazev: Železná maska; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(259 450)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 45; nazev: Dobrá Voda; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(200,190)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 35; nazev: Petrolejový princ; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 850)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Křidýlko nebo stehýnko?; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 910)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 33; nazev: Návštěvníci; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(206 410)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 36; nazev: Chalupáři; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 170)" d="M8.349,0A8.349,8.349,0,1,1,-8.349,0A8.349,8.349,0,1,1,8.349,0" fill="#788A98" opacity=".7" aria-label="tyden: 30; nazev: Malý pitaval z velkého města; kategorie: serial; len: 24" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(65 890)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 12; nazev: Policejní akademie; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 610)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Oscar; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 930)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Policejní akademie 2: Jejich první nasazení; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 670)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Policejní akademie 6: Město v obležení; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(241 650)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 42; nazev: Policejní akademie 3: Znovu ve výcviku; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 70)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Indiana Jones a dobyvatelé ztracené archy; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 90)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: 2Bobule; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(253 690)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 44; nazev: Policejní akademie 5: Nasazení: Miami Beach; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 810)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Angelika, markýza andělů; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 150)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Indiana Jones a Království křišťálové lebky; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(253 490)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 44; nazev: Mezi supy; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(76 650)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 14; nazev: Policejní akademie 3: Znovu ve výcviku; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(282 770)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 49; nazev: Sissi - Mladá císařovna; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 170)" d="M8.189,0A8.189,8.189,0,1,1,-8.189,0A8.189,8.189,0,1,1,8.189,0" fill="#788A98" opacity=".7" aria-label="tyden: 29; nazev: Malý pitaval z velkého města; kategorie: serial; len: 23" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 870)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 28; nazev: Spongebob v kalhotách; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(218 450)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 38; nazev: Dobrá Voda; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(247 450)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 43; nazev: Dobrá Voda; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 270)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Mladé víno; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 970)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Nezkrotná Angelika; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 410)" d="M6.578,0A6.578,6.578,0,1,1,-6.578,0A6.578,6.578,0,1,1,6.578,0" fill="#788A98" opacity=".7" aria-label="tyden: 26; nazev: Chalupáři; kategorie: serial; len: 14" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(282 830)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 49; nazev: Báječná Angelika; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(41 910)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 8; nazev: Návštěvníci; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(200,750)" d="M5.482,0A5.482,5.482,0,1,1,-5.482,0A5.482,5.482,0,1,1,5.482,0" fill="#788A98" opacity=".7" aria-label="tyden: 35; nazev: Správná dvojka; kategorie: serial; len: 9" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 530)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Železná maska; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 770)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Sissi - Mladá císařovna; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 470)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Vinnetou - Poslední výstřel; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 550)" d="M5.482,0A5.482,5.482,0,1,1,-5.482,0A5.482,5.482,0,1,1,5.482,0" fill="#788A98" opacity=".7" aria-label="tyden: 29; nazev: Pan Tau; kategorie: serial; len: 9" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 590)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Discopříběh 2; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(18 650)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 4; nazev: Policejní akademie 3: Znovu ve výcviku; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 910)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 26; nazev: Návštěvníci; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(212 170)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 37; nazev: Malý pitaval z velkého města; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 790)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Angelika a král; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(224 450)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 39; nazev: Dobrá Voda; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 450)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 30; nazev: Dobrá Voda; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 910)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 34; nazev: Návštěvníci; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 550)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 34; nazev: Pan Tau; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(18 950)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 4; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(35 570)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 7; nazev: Bídníci; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 790)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Angelika a král; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(59 730)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 11; nazev: Sissi - Osudová léta císařovny; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(218 750)" d="M5.718,0A5.718,5.718,0,1,1,-5.718,0A5.718,5.718,0,1,1,5.718,0" fill="#788A98" opacity=".7" aria-label="tyden: 38; nazev: Správná dvojka; kategorie: serial; len: 10" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 190)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Petrolejový princ; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(259 410)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 45; nazev: Chalupáři; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 990)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Policejní akademie 7: Moskevská mise; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 950)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 930)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Policejní akademie 2: Jejich první nasazení; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 650)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Policejní akademie 3: Znovu ve výcviku; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(5.9 930)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 2; nazev: Policejní akademie 2: Jejich první nasazení; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(124 550)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 22; nazev: Pan Tau; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(206 450)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 36; nazev: Dobrá Voda; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(276 450)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 48; nazev: Dobrá Voda; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(282 730)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 49; nazev: Sissi - Osudová léta císařovny; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(294 350)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 51; nazev: Vinnetou; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 210)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Zralé víno; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 490)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Mezi supy; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 970)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Nezkrotná Angelika; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(141 410)" d="M5.718,0A5.718,5.718,0,1,1,-5.718,0A5.718,5.718,0,1,1,5.718,0" fill="#788A98" opacity=".7" aria-label="tyden: 25; nazev: Chalupáři; kategorie: serial; len: 10" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(29 910)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 6; nazev: Návštěvníci; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(212 950)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 37; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 110)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Indiana Jones a Poslední křížová výprava; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(235 930)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 41; nazev: Policejní akademie 2: Jejich první nasazení; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 110)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Indiana Jones a Poslední křížová výprava; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 870)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#788A98" opacity=".7" aria-label="tyden: 30; nazev: Spongebob v kalhotách; kategorie: serial; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(224 410)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 39; nazev: Chalupáři; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 690)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Policejní akademie 5: Nasazení: Miami Beach; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(288 770)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 50; nazev: Sissi - Mladá císařovna; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 850)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Křidýlko nebo stehýnko?; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(200,870)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 35; nazev: Spongebob v kalhotách; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 830)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Báječná Angelika; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(82 550)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 15; nazev: Pan Tau; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 750)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 27; nazev: Správná dvojka; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(141 290)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 25; nazev: Jurský park; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 50)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Za oponou; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(88 670)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 16; nazev: Policejní akademie 6: Město v obležení; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 830)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Báječná Angelika; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 810)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Angelika, markýza andělů; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(129 570)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 23; nazev: Bídníci; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(135 310)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 24; nazev: Jurský park 3; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 90)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: 2Bobule; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(141 570)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 25; nazev: Bídníci; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 730)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Sissi - Osudová léta císařovny; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(229 450)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 40; nazev: Dobrá Voda; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 390)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Poklad na Stříbrném jezeře; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 410)" d="M7.338,0A7.338,7.338,0,1,1,-7.338,0A7.338,7.338,0,1,1,7.338,0" fill="#788A98" opacity=".7" aria-label="tyden: 30; nazev: Chalupáři; kategorie: serial; len: 18" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 890)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 26; nazev: Policejní akademie; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(24 570)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 5; nazev: Bídníci; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(12 930)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 3; nazev: Policejní akademie 2: Jejich první nasazení; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(253 450)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 44; nazev: Dobrá Voda; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 530)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Železná maska; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 130)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Indiana Jones a Chrám zkázy; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 410)" d="M5.718,0A5.718,5.718,0,1,1,-5.718,0A5.718,5.718,0,1,1,5.718,0" fill="#788A98" opacity=".7" aria-label="tyden: 32; nazev: Chalupáři; kategorie: serial; len: 10" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(100,990)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 18; nazev: Policejní akademie 7: Moskevská mise; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 490)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Mezi supy; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 550)" d="M5.482,0A5.482,5.482,0,1,1,-5.482,0A5.482,5.482,0,1,1,5.482,0" fill="#788A98" opacity=".7" aria-label="tyden: 30; nazev: Pan Tau; kategorie: serial; len: 9" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 190)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Petrolejový princ; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(59 950)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 11; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(59 370)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 11; nazev: Dannyho parťáci 3; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 450)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#788A98" opacity=".7" aria-label="tyden: 34; nazev: Dobrá Voda; kategorie: serial; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(53 950)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 10; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(12 650)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 3; nazev: Policejní akademie 3: Znovu ve výcviku; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 270)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Mladé víno; kategorie: film; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 730)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Sissi - Osudová léta císařovny; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(24 490)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 5; nazev: Mezi supy; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(106 870)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 19; nazev: Spongebob v kalhotách; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 850)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Křidýlko nebo stehýnko?; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 830)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Báječná Angelika; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 770)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 26; nazev: Sissi - Mladá císařovna; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 450)" d="M5.235,0A5.235,5.235,0,1,1,-5.235,0A5.235,5.235,0,1,1,5.235,0" fill="#788A98" opacity=".7" aria-label="tyden: 31; nazev: Dobrá Voda; kategorie: serial; len: 8" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 510)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Vinnetou - Rudý gentleman; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(241 450)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 42; nazev: Dobrá Voda; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 930)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Policejní akademie 2: Jejich první nasazení; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 130)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Indiana Jones a Chrám zkázy; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 190)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Petrolejový princ; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(294 790)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 51; nazev: Angelika a král; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 150)" d="M4.976,0A4.976,4.976,0,1,1,-4.976,0A4.976,4.976,0,1,1,4.976,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Indiana Jones a Království křišťálové lebky; kategorie: film; len: 7" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 830)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Báječná Angelika; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(124 870)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 22; nazev: Spongebob v kalhotách; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 870)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 26; nazev: Spongebob v kalhotách; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(71 930)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 13; nazev: Policejní akademie 2: Jejich první nasazení; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(265 430)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 46; nazev: Vinnetou a míšenka Apanači; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 790)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Angelika a král; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 570)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Bídníci; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 670)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Policejní akademie 6: Město v obležení; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 870)" d="M4.413,0A4.413,4.413,0,1,1,-4.413,0A4.413,4.413,0,1,1,4.413,0" fill="#788A98" opacity=".7" aria-label="tyden: 29; nazev: Spongebob v kalhotách; kategorie: serial; len: 5" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(129 330)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 23; nazev: Ztracený svět: Jurský park; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(24 710)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 5; nazev: Policejní akademie 4: Občanská patrola; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 770)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Sissi - Mladá císařovna; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(247 410)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 43; nazev: Chalupáři; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 670)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Policejní akademie 6: Město v obležení; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(288 730)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 50; nazev: Sissi - Osudová léta císařovny; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(200,450)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 35; nazev: Dobrá Voda; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(5.9 890)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 2; nazev: Policejní akademie; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 530)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Železná maska; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 170)" d="M8.026,0A8.026,8.026,0,1,1,-8.026,0A8.026,8.026,0,1,1,8.026,0" fill="#788A98" opacity=".7" aria-label="tyden: 32; nazev: Malý pitaval z velkého města; kategorie: serial; len: 22" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 410)" d="M5.235,0A5.235,5.235,0,1,1,-5.235,0A5.235,5.235,0,1,1,5.235,0" fill="#788A98" opacity=".7" aria-label="tyden: 33; nazev: Chalupáři; kategorie: serial; len: 8" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 570)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Bídníci; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(200,410)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 35; nazev: Chalupáři; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 750)" d="M5.235,0A5.235,5.235,0,1,1,-5.235,0A5.235,5.235,0,1,1,5.235,0" fill="#788A98" opacity=".7" aria-label="tyden: 28; nazev: Správná dvojka; kategorie: serial; len: 8" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(24 690)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 5; nazev: Policejní akademie 5: Nasazení: Miami Beach; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 450)" d="M5.235,0A5.235,5.235,0,1,1,-5.235,0A5.235,5.235,0,1,1,5.235,0" fill="#788A98" opacity=".7" aria-label="tyden: 29; nazev: Dobrá Voda; kategorie: serial; len: 8" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(29 950)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 6; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 750)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 34; nazev: Správná dvojka; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(229 890)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 40; nazev: Policejní akademie; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 270)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Mladé víno; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(294 850)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 51; nazev: Křidýlko nebo stehýnko?; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(141 870)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 25; nazev: Spongebob v kalhotách; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 430)" d="M4.413,0A4.413,4.413,0,1,1,-4.413,0A4.413,4.413,0,1,1,4.413,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Vinnetou a míšenka Apanači; kategorie: film; len: 5" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(235 210)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 41; nazev: Zralé víno; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(212 190)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 37; nazev: Petrolejový princ; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 30)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Skryté zločiny osmašedesátého; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 450)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 26; nazev: Dobrá Voda; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 930)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Policejní akademie 2: Jejich první nasazení; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 830)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Báječná Angelika; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 790)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Angelika a král; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 230)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Bouřlivé víno; kategorie: film; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 90)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: 2Bobule; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(229 230)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 40; nazev: Bouřlivé víno; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(212 90)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 37; nazev: 2Bobule; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 510)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Vinnetou - Rudý gentleman; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(29 690)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 6; nazev: Policejní akademie 5: Nasazení: Miami Beach; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 990)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Policejní akademie 7: Moskevská mise; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 450)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 33; nazev: Dobrá Voda; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(253 410)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 44; nazev: Chalupáři; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(224 170)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 39; nazev: Malý pitaval z velkého města; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(88 690)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 16; nazev: Policejní akademie 5: Nasazení: Miami Beach; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 410)" d="M7.338,0A7.338,7.338,0,1,1,-7.338,0A7.338,7.338,0,1,1,7.338,0" fill="#788A98" opacity=".7" aria-label="tyden: 28; nazev: Chalupáři; kategorie: serial; len: 18" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(235 450)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 41; nazev: Dobrá Voda; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 770)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Sissi - Mladá císařovna; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 10)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Bobule; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 190)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Petrolejový princ; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 450)" d="M4.413,0A4.413,4.413,0,1,1,-4.413,0A4.413,4.413,0,1,1,4.413,0" fill="#788A98" opacity=".7" aria-label="tyden: 27; nazev: Dobrá Voda; kategorie: serial; len: 5" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 410)" d="M7.338,0A7.338,7.338,0,1,1,-7.338,0A7.338,7.338,0,1,1,7.338,0" fill="#788A98" opacity=".7" aria-label="tyden: 27; nazev: Chalupáři; kategorie: serial; len: 18" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 810)" d="M4.413,0A4.413,4.413,0,1,1,-4.413,0A4.413,4.413,0,1,1,4.413,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Angelika, markýza andělů; kategorie: film; len: 5" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(35 950)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 7; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 650)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Policejní akademie 3: Znovu ve výcviku; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(18 570)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 4; nazev: Bídníci; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 310)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Jurský park 3; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(259 610)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 45; nazev: Oscar; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(276 590)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 48; nazev: Discopříběh 2; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 990)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Policejní akademie 7: Moskevská mise; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 750)" d="M5.482,0A5.482,5.482,0,1,1,-5.482,0A5.482,5.482,0,1,1,5.482,0" fill="#788A98" opacity=".7" aria-label="tyden: 26; nazev: Správná dvojka; kategorie: serial; len: 9" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(229 410)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#788A98" opacity=".7" aria-label="tyden: 40; nazev: Chalupáři; kategorie: serial; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(224 750)" d="M5.235,0A5.235,5.235,0,1,1,-5.235,0A5.235,5.235,0,1,1,5.235,0" fill="#788A98" opacity=".7" aria-label="tyden: 39; nazev: Správná dvojka; kategorie: serial; len: 8" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 870)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#788A98" opacity=".7" aria-label="tyden: 33; nazev: Spongebob v kalhotách; kategorie: serial; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 370)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 27; nazev: Dannyho parťáci 3; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 570)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Bídníci; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(35 990)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 7; nazev: Policejní akademie 7: Moskevská mise; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(294 390)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 51; nazev: Poklad na Stříbrném jezeře; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 730)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Sissi - Osudová léta císařovny; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 910)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 32; nazev: Návštěvníci; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(100,870)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 18; nazev: Spongebob v kalhotách; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(76 550)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 14; nazev: Pan Tau; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(82 690)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 15; nazev: Policejní akademie 5: Nasazení: Miami Beach; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 130)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Indiana Jones a Chrám zkázy; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(88 330)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 16; nazev: Ztracený svět: Jurský park; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(59 890)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 11; nazev: Policejní akademie; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 770)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Sissi - Mladá císařovna; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 750)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 29; nazev: Správná dvojka; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(300,850)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 52; nazev: Křidýlko nebo stehýnko?; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 230)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Bouřlivé víno; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(259 670)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 45; nazev: Policejní akademie 6: Město v obležení; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 730)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Sissi - Osudová léta císařovny; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 170)" d="M6.163,0A6.163,6.163,0,1,1,-6.163,0A6.163,6.163,0,1,1,6.163,0" fill="#788A98" opacity=".7" aria-label="tyden: 26; nazev: Malý pitaval z velkého města; kategorie: serial; len: 12" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 70)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 26; nazev: Indiana Jones a dobyvatelé ztracené archy; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(88 870)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 16; nazev: Spongebob v kalhotách; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 330)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 26; nazev: Ztracený svět: Jurský park; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 710)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Policejní akademie 4: Občanská patrola; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 370)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Dannyho parťáci 3; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(41 990)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 8; nazev: Policejní akademie 7: Moskevská mise; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(29 570)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 6; nazev: Bídníci; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(200,990)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 35; nazev: Policejní akademie 7: Moskevská mise; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(0,890)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 1; nazev: Policejní akademie; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 370)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 26; nazev: Dannyho parťáci 3; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(94 550)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 17; nazev: Pan Tau; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 970)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Nezkrotná Angelika; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 690)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Policejní akademie 5: Nasazení: Miami Beach; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 170)" d="M8.66,0A8.66,8.66,0,1,1,-8.66,0A8.66,8.66,0,1,1,8.66,0" fill="#788A98" opacity=".7" aria-label="tyden: 31; nazev: Malý pitaval z velkého města; kategorie: serial; len: 26" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(141 750)" d="M5.235,0A5.235,5.235,0,1,1,-5.235,0A5.235,5.235,0,1,1,5.235,0" fill="#788A98" opacity=".7" aria-label="tyden: 25; nazev: Správná dvojka; kategorie: serial; len: 8" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 310)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Jurský park 3; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 570)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 26; nazev: Bídníci; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 770)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 34; nazev: Sissi - Mladá císařovna; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(94 870)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 17; nazev: Spongebob v kalhotách; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 430)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Vinnetou a míšenka Apanači; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 550)" d="M5.235,0A5.235,5.235,0,1,1,-5.235,0A5.235,5.235,0,1,1,5.235,0" fill="#788A98" opacity=".7" aria-label="tyden: 28; nazev: Pan Tau; kategorie: serial; len: 8" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(271 450)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 47; nazev: Dobrá Voda; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(182 10)" d="M5.718,0A5.718,5.718,0,1,1,-5.718,0A5.718,5.718,0,1,1,5.718,0" fill="#D15A41" opacity=".7" aria-label="tyden: 32; nazev: Bobule; kategorie: film; len: 10" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(265 990)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 46; nazev: Policejní akademie 7: Moskevská mise; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 70)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 30; nazev: Indiana Jones a dobyvatelé ztracené archy; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(47 910)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 9; nazev: Návštěvníci; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 90)" d="M5.718,0A5.718,5.718,0,1,1,-5.718,0A5.718,5.718,0,1,1,5.718,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: 2Bobule; kategorie: film; len: 10" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(29 670)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 6; nazev: Policejní akademie 6: Město v obležení; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 890)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Policejní akademie; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(88 550)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 16; nazev: Pan Tau; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(165 570)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 29; nazev: Bídníci; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(106 550)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 19; nazev: Pan Tau; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(276 810)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 48; nazev: Angelika, markýza andělů; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(235 170)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 41; nazev: Malý pitaval z velkého města; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(188 250)" d="M5.235,0A5.235,5.235,0,1,1,-5.235,0A5.235,5.235,0,1,1,5.235,0" fill="#D15A41" opacity=".7" aria-label="tyden: 33; nazev: Rebelové; kategorie: film; len: 8" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(206 950)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 36; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 430)" d="M4.413,0A4.413,4.413,0,1,1,-4.413,0A4.413,4.413,0,1,1,4.413,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Vinnetou a míšenka Apanači; kategorie: film; len: 5" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(100,550)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 18; nazev: Pan Tau; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(124 910)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#788A98" opacity=".7" aria-label="tyden: 22; nazev: Návštěvníci; kategorie: serial; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 10)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Bobule; kategorie: film; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 550)" d="M3.397,0A3.397,3.397,0,1,1,-3.397,0A3.397,3.397,0,1,1,3.397,0" fill="#788A98" opacity=".7" aria-label="tyden: 26; nazev: Pan Tau; kategorie: serial; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(206 490)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 36; nazev: Mezi supy; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(129 870)" d="M4.703,0A4.703,4.703,0,1,1,-4.703,0A4.703,4.703,0,1,1,4.703,0" fill="#788A98" opacity=".7" aria-label="tyden: 23; nazev: Spongebob v kalhotách; kategorie: serial; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 170)" d="M7.86,0A7.86,7.86,0,1,1,-7.86,0A7.86,7.86,0,1,1,7.86,0" fill="#788A98" opacity=".7" aria-label="tyden: 28; nazev: Malý pitaval z velkého města; kategorie: serial; len: 21" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(147 950)" d="M4.102,0A4.102,4.102,0,1,1,-4.102,0A4.102,4.102,0,1,1,4.102,0" fill="#D15A41" opacity=".7" aria-label="tyden: 26; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 690)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Policejní akademie 5: Nasazení: Miami Beach; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 150)" d="M3.766,0A3.766,3.766,0,1,1,-3.766,0A3.766,3.766,0,1,1,3.766,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Indiana Jones a Království křišťálové lebky; kategorie: film; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(176 950)" d="M5.235,0A5.235,5.235,0,1,1,-5.235,0A5.235,5.235,0,1,1,5.235,0" fill="#D15A41" opacity=".7" aria-label="tyden: 31; nazev: Jsou hvězdy, které nehasnou; kategorie: film; len: 8" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 110)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Indiana Jones a Poslední křížová výprava; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(159 630)" d="M2.982,0A2.982,2.982,0,1,1,-2.982,0A2.982,2.982,0,1,1,2.982,0" fill="#D15A41" opacity=".7" aria-label="tyden: 28; nazev: Piti piti pa; kategorie: film; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+      </ns1:g>
+      <ns1:g class="mark-group role-title">
+       <ns1:g transform="translate(-186 -50)" pointer-events="none">
+        <ns1:path class="background" d="M0,0h0v0h0Z" aria-hidden="true"/>
+        <ns1:g>
+         <ns1:g class="mark-text role-title-text" aria-label="Title text 'Co o prázdninách vysílá ČT1, ČT2, Nova a Prima'" aria-roledescription="title" role="graphics-symbol">
+          <ns1:text transform="translate(0,-1)" fill="#292829" font-family="'Noticia Text', Noticia, serif" font-size="12px" font-weight="bold">Co o prázdninách vysílá ČT1, ČT2, Nova a Prima</ns1:text>
+         </ns1:g>
+         <ns1:g class="mark-text role-title-subtitle" aria-label="Subtitle text 'Filmy, seriály a pořady, které v minulosti vysílaly alespoň dvě různé stanice, běžely v televizi v letech 2023 a 2024, a které jsou v červenci a srpnu vysílanější alespoň 2,2× častěji než od října do května.'" aria-roledescription="subtitle" role="graphics-symbol">
+          <ns1:text transform="translate(0 20)" fill="#292829" font-family="'Noticia Text', Noticia, serif" font-size="10px">
+           <ns1:tspan>Filmy, seriály a pořady, které v minulosti vysílaly alespoň dvě různé stanice, běžely v televizi v letech</ns1:tspan>
+           <ns1:tspan x="0" dy="15">2023 a 2024, a které jsou v červenci a srpnu vysílanější alespoň 2,2× častěji než od října do května.</ns1:tspan>
+          </ns1:text>
+         </ns1:g>
+        </ns1:g>
+        <ns1:path class="foreground" d="" display="none" aria-hidden="true"/>
+       </ns1:g>
+      </ns1:g>
+     </ns1:g>
+     <ns1:path class="foreground" d="" display="none" aria-hidden="true"/>
+    </ns1:g>
+   </ns1:g>
+  </ns1:g>
+ </g>
+ <g transform="translate(299,1105)">
+  <ns0:rect width="200" height="17" fill="white" xmlns:ns0="http://www.w3.org/2000/svg"/>
+  <ns1:g transform="translate(0)" fill="none" stroke-miterlimit="10" xmlns:ns1="http://www.w3.org/2000/svg">
+   <ns1:g class="mark-group role-frame root" aria-roledescription="group mark container" role="graphics-object">
+    <ns1:g transform="translate(0)">
+     <ns1:path class="background" d="M0.5,0.5h200v15h-200Z" aria-hidden="true"/>
+     <ns1:g>
+      <ns1:g class="mark-text role-mark marks" aria-roledescription="text mark container" role="graphics-object">
+       <ns1:text transform="translate(200 14)" fill="#292829" font-family="Asap" font-size="8px" text-anchor="end" aria-label="text: vizualizace: iROZHLAS.cz | zdroj programů: fbd.cz" aria-roledescription="text mark" role="graphics-symbol">vizualizace: iROZHLAS.cz | zdroj programů: fbd.cz</ns1:text>
+      </ns1:g>
+     </ns1:g>
+     <ns1:path class="foreground" d="" display="none" aria-hidden="true"/>
+    </ns1:g>
+   </ns1:g>
+  </ns1:g>
+ </g>
+</svg>
