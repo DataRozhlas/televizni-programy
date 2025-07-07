@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 337 399" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>
+    @font-face {font-family: "Asap"; src: url("https://data.irozhlas.cz/fonty/Asap-VariableFont_wdth,wght.ttf") format("truetype-variations");} 
+    @font-face {font-family: "Noticia Text"; src: url("https://data.irozhlas.cz/fonty/NoticiaText-Regular.ttf") format("truetype-variations"); font-weight: normal; font-style: normal;}
+    @font-face {font-family: "Noticia Text"; src: url("https://data.irozhlas.cz/fonty/NoticiaText-Bold.ttf") format("truetype-variations"); font-weight: bold; font-style: normal;}
+    .role-axis, .role-mark, .role-axis-label, .role-legend {font-family: "Asap", sans-serif} 
+    .mark-group.role-title { font-family: "'Noticia Text'", "Noticia", serif}
+    </style>
+ <g transform="translate(0)">
+  <ns0:rect width="337" height="379" fill="white" xmlns:ns0="http://www.w3.org/2000/svg"/>
+  <ns1:g transform="translate(135,80)" fill="none" stroke-miterlimit="10" xmlns:ns1="http://www.w3.org/2000/svg">
+   <ns1:g class="mark-group role-frame root" aria-roledescription="group mark container" role="graphics-object">
+    <ns1:g transform="translate(0)">
+     <ns1:path class="background" d="M0.5,0.5h190v260h-190Z" aria-hidden="true"/>
+     <ns1:g>
+      <ns1:g class="mark-group role-axis" aria-hidden="true">
+       <ns1:g transform="translate(.5 260)">
+        <ns1:path class="background" d="M0,0h0v0h0Z" pointer-events="none" aria-hidden="true"/>
+        <ns1:g>
+         <ns1:g class="mark-rule role-axis-grid" pointer-events="none" stroke="#F1D1BB" stroke-opacity=".6" stroke-width=".5">
+          <ns1:line transform="translate(34)" x2="0" y2="-260"/>
+          <ns1:line transform="translate(71)" x2="0" y2="-260"/>
+          <ns1:line transform="translate(108)" x2="0" y2="-260"/>
+          <ns1:line transform="translate(145)" x2="0" y2="-260"/>
+          <ns1:line transform="translate(183)" x2="0" y2="-260"/>
+         </ns1:g>
+        </ns1:g>
+        <ns1:path class="foreground" d="" display="none" pointer-events="none" aria-hidden="true"/>
+       </ns1:g>
+      </ns1:g>
+      <ns1:g class="mark-group role-axis" aria-hidden="true">
+       <ns1:g transform="translate(.5 .5)">
+        <ns1:path class="background" d="M0,0h0v0h0Z" pointer-events="none" aria-hidden="true"/>
+        <ns1:g>
+         <ns1:g class="mark-rule role-axis-grid" pointer-events="none" stroke="#F1D1BB" stroke-opacity=".6" stroke-width=".5">
+          <ns1:line transform="translate(0,8)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,23)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,38)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,54)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,69)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,84)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,99)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,115)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,130)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,145)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,161)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,176)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,191)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,206)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,222)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,237)" x2="190" y2="0"/>
+          <ns1:line transform="translate(0,252)" x2="190" y2="0"/>
+         </ns1:g>
+        </ns1:g>
+        <ns1:path class="foreground" d="" display="none" pointer-events="none" aria-hidden="true"/>
+       </ns1:g>
+      </ns1:g>
+      <ns1:g class="mark-group role-axis" aria-label="X-axis titled 'týden v roce' for a linear scale with values from 1 to 52" aria-roledescription="axis" role="graphics-symbol">
+       <ns1:g transform="translate(.5 260)" pointer-events="none">
+        <ns1:path class="background" d="M0,0h0v0h0Z" aria-hidden="true"/>
+        <ns1:g>
+         <ns1:g class="mark-rule role-axis-tick" stroke="#F1D1BB" stroke-opacity=".6" stroke-width=".5">
+          <ns1:line transform="translate(34)" x2="0" y2="5"/>
+          <ns1:line transform="translate(71)" x2="0" y2="5"/>
+          <ns1:line transform="translate(108)" x2="0" y2="5"/>
+          <ns1:line transform="translate(145)" x2="0" y2="5"/>
+          <ns1:line transform="translate(183)" x2="0" y2="5"/>
+         </ns1:g>
+         <ns1:g class="mark-text role-axis-label" fill="#292829" font-family="Asap" font-size="9px" text-anchor="middle">
+          <ns1:text transform="translate(34 14)">10.</ns1:text>
+          <ns1:text transform="translate(71 14)">20.</ns1:text>
+          <ns1:text transform="translate(108 14)">30.</ns1:text>
+          <ns1:text transform="translate(145 14)">40.</ns1:text>
+          <ns1:text transform="translate(183 14)">50.</ns1:text>
+         </ns1:g>
+         <ns1:g class="mark-rule role-axis-domain">
+          <ns1:line transform="translate(0)" x2="190" y2="0" stroke="#888" stroke-opacity="0"/>
+         </ns1:g>
+         <ns1:g class="mark-text role-axis-title">
+          <ns1:text transform="translate(95,32)" fill="#000" font-family="Asap" font-size="9px" font-weight="lighter" text-anchor="middle">týden v roce</ns1:text>
+         </ns1:g>
+        </ns1:g>
+        <ns1:path class="foreground" d="" display="none" aria-hidden="true"/>
+       </ns1:g>
+      </ns1:g>
+      <ns1:g class="mark-group role-axis" aria-label="Y-axis for a discrete scale with 17 values: Slunce, seno, jahody, Slunce, seno a pár facek, Slunce, seno, erotika, Na samotě u lesa, Fantomas, ending with Četník a četnice" aria-roledescription="axis" role="graphics-symbol">
+       <ns1:g transform="translate(.5 .5)" pointer-events="none">
+        <ns1:path class="background" d="M0,0h0v0h0Z" aria-hidden="true"/>
+        <ns1:g>
+         <ns1:g class="mark-rule role-axis-tick" stroke="#F1D1BB" stroke-opacity=".6" stroke-width=".5">
+          <ns1:line transform="translate(0,8)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,23)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,38)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,54)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,69)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,84)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,99)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,115)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,130)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,145)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,161)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,176)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,191)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,206)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,222)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,237)" x2="-5" y2="0"/>
+          <ns1:line transform="translate(0,252)" x2="-5" y2="0"/>
+         </ns1:g>
+         <ns1:g class="mark-text role-axis-label" fill="#292829" font-family="Asap" font-size="9px" text-anchor="end">
+          <ns1:text transform="translate(-7 11)">Slunce, seno, jahody</ns1:text>
+          <ns1:text transform="translate(-7 26)">Slunce, seno a pár facek</ns1:text>
+          <ns1:text transform="translate(-7 41)">Slunce, seno, erotika</ns1:text>
+          <ns1:text transform="translate(-7 57)">Na samotě u lesa</ns1:text>
+          <ns1:text transform="translate(-7 72)">Fantomas</ns1:text>
+          <ns1:text transform="translate(-7 87)">Fantomas se zlobí</ns1:text>
+          <ns1:text transform="translate(-7 102)">Fantomas kontra Scotland Yard</ns1:text>
+          <ns1:text transform="translate(-7 118)">Hříšný tanec</ns1:text>
+          <ns1:text transform="translate(-7,133)">Pomáda</ns1:text>
+          <ns1:text transform="translate(-7 148)">Horečka sobotní noci</ns1:text>
+          <ns1:text transform="translate(-7 164)">Léto s kovbojem</ns1:text>
+          <ns1:text transform="translate(-7 179)">Četník ze St. Tropez</ns1:text>
+          <ns1:text transform="translate(-7 194)">Četník v New Yorku</ns1:text>
+          <ns1:text transform="translate(-7 209)">Četník se žení</ns1:text>
+          <ns1:text transform="translate(-7 225)">Četník ve výslužbě</ns1:text>
+          <ns1:text transform="translate(-7 240)">Četník a mimozemšťané</ns1:text>
+          <ns1:text transform="translate(-7 255)">Četník a četnice</ns1:text>
+         </ns1:g>
+         <ns1:g class="mark-rule role-axis-domain">
+          <ns1:line transform="translate(0)" x2="0" y2="260" stroke="#888" stroke-opacity="0"/>
+         </ns1:g>
+        </ns1:g>
+        <ns1:path class="foreground" d="" display="none" aria-hidden="true"/>
+       </ns1:g>
+      </ns1:g>
+      <ns1:g class="mark-rect role-mark layer_0_marks" fill="#D5B574" aria-roledescription="rect mark container" role="graphics-object">
+       <ns1:path d="M130.3921568627451,0h3.7254901960784252v260h-3.7254901960784252Z" opacity=".4" aria-label="tyden: 36; tyden2: 37; prazdninovost: nekdy" aria-roledescription="rect mark" role="graphics-symbol"/>
+       <ns1:path d="M96.86274509803921,0h33.5294117647059v260h-33.5294117647059Z" opacity=".75" aria-label="tyden: 27; tyden2: 36; prazdninovost: vzdycky" aria-roledescription="rect mark" role="graphics-symbol"/>
+       <ns1:path d="M93.13725490196079,0h3.7254901960784252v260h-3.7254901960784252Z" opacity=".4" aria-label="tyden: 26; tyden2: 27; prazdninovost: nekdy" aria-roledescription="rect mark" role="graphics-symbol"/>
+      </ns1:g>
+      <ns1:g class="mark-text role-mark layer_1_marks" aria-roledescription="text mark container" role="graphics-object">
+       <ns1:text transform="translate(138 12)" fill="#292829" font-family="Asap" font-size="8px" aria-label="tyden: 38" aria-roledescription="text mark" role="graphics-symbol">
+        <ns1:tspan>← týdny,</ns1:tspan>
+        <ns1:tspan x="0" dy="10">do kterých</ns1:tspan>
+        <ns1:tspan x="0" dy="10">zasáhly letní</ns1:tspan>
+        <ns1:tspan x="0" dy="10">prázdniny</ns1:tspan>
+       </ns1:text>
+      </ns1:g>
+      <ns1:g class="mark-symbol role-mark layer_2_marks" fill="#D15A41" stroke-width="2" aria-roledescription="symbol mark container" role="graphics-object">
+       <ns1:path transform="translate(11 99)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 4; nazev: Fantomas kontra Scotland Yard; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(186 99)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 51; nazev: Fantomas kontra Scotland Yard; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(123 115)" d="M3.536,0A3.536,3.536,0,1,1,-3.536,0A3.536,3.536,0,1,1,3.536,0" opacity=".7" aria-label="tyden: 34; nazev: Hříšný tanec; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(115 7.6)" d="M3.536,0A3.536,3.536,0,1,1,-3.536,0A3.536,3.536,0,1,1,3.536,0" opacity=".7" aria-label="tyden: 32; nazev: Slunce, seno, jahody; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(119 69)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 33; nazev: Fantomas; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(190 99)" d="M3.536,0A3.536,3.536,0,1,1,-3.536,0A3.536,3.536,0,1,1,3.536,0" opacity=".7" aria-label="tyden: 52; nazev: Fantomas kontra Scotland Yard; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(48 99)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 14; nazev: Fantomas kontra Scotland Yard; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(19 191)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 6; nazev: Četník v New Yorku; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(97 206)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 27; nazev: Četník se žení; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(160 176)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 44; nazev: Četník ze St. Tropez; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(175 222)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 48; nazev: Četník ve výslužbě; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 130)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 42; nazev: Pomáda; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(7.5 84)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 3; nazev: Fantomas se zlobí; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(75 23)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 21; nazev: Slunce, seno a pár facek; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(108 206)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 30; nazev: Četník se žení; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(93 130)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 26; nazev: Pomáda; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(190 54)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" opacity=".7" aria-label="tyden: 52; nazev: Na samotě u lesa; len: 12" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(11 38)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 4; nazev: Slunce, seno, erotika; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(183 206)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 50; nazev: Četník se žení; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(3.7 69)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 2; nazev: Fantomas; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(34 38)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 10; nazev: Slunce, seno, erotika; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(52 191)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 15; nazev: Četník v New Yorku; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(78 99)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 22; nazev: Fantomas kontra Scotland Yard; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(183 54)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 50; nazev: Na samotě u lesa; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(123 38)" d="M3.307,0A3.307,3.307,0,1,1,-3.307,0A3.307,3.307,0,1,1,3.307,0" opacity=".7" aria-label="tyden: 34; nazev: Slunce, seno, erotika; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(190 23)" d="M3.953,0A3.953,3.953,0,1,1,-3.953,0A3.953,3.953,0,1,1,3.953,0" opacity=".7" aria-label="tyden: 52; nazev: Slunce, seno a pár facek; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(160 161)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 44; nazev: Léto s kovbojem; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(190 145)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 52; nazev: Horečka sobotní noci; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(119 7.6)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 33; nazev: Slunce, seno, jahody; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(71 115)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 20; nazev: Hříšný tanec; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(123 145)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 34; nazev: Horečka sobotní noci; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(123 23)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 34; nazev: Slunce, seno a pár facek; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(145 84)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 40; nazev: Fantomas se zlobí; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(112 161)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 31; nazev: Léto s kovbojem; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(145 161)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 40; nazev: Léto s kovbojem; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 54)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 53; nazev: Na samotě u lesa; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(119 38)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 33; nazev: Slunce, seno, erotika; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(186 69)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 51; nazev: Fantomas; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(93 23)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 26; nazev: Slunce, seno a pár facek; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(149 130)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 41; nazev: Pomáda; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(104 69)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 29; nazev: Fantomas; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(108 99)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 30; nazev: Fantomas kontra Scotland Yard; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(89 7.6)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 25; nazev: Slunce, seno, jahody; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(45 84)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 13; nazev: Fantomas se zlobí; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(78 54)" d="M3.307,0A3.307,3.307,0,1,1,-3.307,0A3.307,3.307,0,1,1,3.307,0" opacity=".7" aria-label="tyden: 22; nazev: Na samotě u lesa; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(123 252)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 34; nazev: Četník a četnice; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(71 69)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 20; nazev: Fantomas; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 206)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 47; nazev: Četník se žení; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(37 69)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 11; nazev: Fantomas; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(190 115)" d="M3.307,0A3.307,3.307,0,1,1,-3.307,0A3.307,3.307,0,1,1,3.307,0" opacity=".7" aria-label="tyden: 52; nazev: Hříšný tanec; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(101 237)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 28; nazev: Četník a mimozemšťané; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(56 54)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 16; nazev: Na samotě u lesa; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(130 161)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 36; nazev: Léto s kovbojem; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(63 161)" d="M3.536,0A3.536,3.536,0,1,1,-3.536,0A3.536,3.536,0,1,1,3.536,0" opacity=".7" aria-label="tyden: 18; nazev: Léto s kovbojem; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(15 7.6)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 5; nazev: Slunce, seno, jahody; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(22 161)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 7; nazev: Léto s kovbojem; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(52 54)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 15; nazev: Na samotě u lesa; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(93 176)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 26; nazev: Četník ze St. Tropez; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(22 38)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 7; nazev: Slunce, seno, erotika; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(86 130)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 24; nazev: Pomáda; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(153 161)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 42; nazev: Léto s kovbojem; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(186 115)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 51; nazev: Hříšný tanec; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(30 252)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 9; nazev: Četník a četnice; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(127 130)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 35; nazev: Pomáda; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(115 237)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 32; nazev: Četník a mimozemšťané; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(75 161)" d="M3.307,0A3.307,3.307,0,1,1,-3.307,0A3.307,3.307,0,1,1,3.307,0" opacity=".7" aria-label="tyden: 21; nazev: Léto s kovbojem; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(22 237)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 7; nazev: Četník a mimozemšťané; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(190 84)" d="M3.536,0A3.536,3.536,0,1,1,-3.536,0A3.536,3.536,0,1,1,3.536,0" opacity=".7" aria-label="tyden: 52; nazev: Fantomas se zlobí; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(104 191)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 29; nazev: Četník v New Yorku; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(186 84)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 51; nazev: Fantomas se zlobí; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(41 69)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 12; nazev: Fantomas; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(3.7 176)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 2; nazev: Četník ze St. Tropez; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(60 7.6)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 17; nazev: Slunce, seno, jahody; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(89 145)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 25; nazev: Horečka sobotní noci; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(15 206)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 5; nazev: Četník se žení; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(183 161)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 50; nazev: Léto s kovbojem; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(75 54)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 21; nazev: Na samotě u lesa; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(97 38)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 27; nazev: Slunce, seno, erotika; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(183 237)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 50; nazev: Četník a mimozemšťané; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(71 38)" d="M3.307,0A3.307,3.307,0,1,1,-3.307,0A3.307,3.307,0,1,1,3.307,0" opacity=".7" aria-label="tyden: 20; nazev: Slunce, seno, erotika; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(15 222)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 5; nazev: Četník ve výslužbě; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(26 7.6)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 8; nazev: Slunce, seno, jahody; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(48 54)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 14; nazev: Na samotě u lesa; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(134 115)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 37; nazev: Hříšný tanec; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(26 237)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 8; nazev: Četník a mimozemšťané; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(119 23)" d="M3.536,0A3.536,3.536,0,1,1,-3.536,0A3.536,3.536,0,1,1,3.536,0" opacity=".7" aria-label="tyden: 33; nazev: Slunce, seno a pár facek; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(11 206)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 4; nazev: Četník se žení; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(97 7.6)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 27; nazev: Slunce, seno, jahody; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(97 222)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 27; nazev: Četník ve výslužbě; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(19 38)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 6; nazev: Slunce, seno, erotika; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(186 7.6)" d="M3.536,0A3.536,3.536,0,1,1,-3.536,0A3.536,3.536,0,1,1,3.536,0" opacity=".7" aria-label="tyden: 51; nazev: Slunce, seno, jahody; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(0 115)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 1; nazev: Hříšný tanec; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(190,130)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 52; nazev: Pomáda; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(11 7.6)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 4; nazev: Slunce, seno, jahody; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(15 23)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 5; nazev: Slunce, seno a pár facek; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(123 84)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 34; nazev: Fantomas se zlobí; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(194 130)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 53; nazev: Pomáda; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(82 161)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 23; nazev: Léto s kovbojem; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(183 222)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 50; nazev: Četník ve výslužbě; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(63 54)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 18; nazev: Na samotě u lesa; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(190 38)" d="M3.953,0A3.953,3.953,0,1,1,-3.953,0A3.953,3.953,0,1,1,3.953,0" opacity=".7" aria-label="tyden: 52; nazev: Slunce, seno, erotika; len: 6" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(183 252)" d="M3.307,0A3.307,3.307,0,1,1,-3.307,0A3.307,3.307,0,1,1,3.307,0" opacity=".7" aria-label="tyden: 50; nazev: Četník a četnice; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(101 23)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 28; nazev: Slunce, seno a pár facek; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(115 23)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 32; nazev: Slunce, seno a pár facek; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(183 176)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 50; nazev: Četník ze St. Tropez; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(112 7.6)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 31; nazev: Slunce, seno, jahody; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(123 99)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 34; nazev: Fantomas kontra Scotland Yard; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(101 252)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 28; nazev: Četník a četnice; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(101 176)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 28; nazev: Četník ze St. Tropez; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(104 84)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 29; nazev: Fantomas se zlobí; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(7.5 176)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 3; nazev: Četník ze St. Tropez; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(112 222)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 31; nazev: Četník ve výslužbě; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(7.5 23)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 3; nazev: Slunce, seno a pár facek; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(179 145)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 49; nazev: Horečka sobotní noci; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(142 69)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 39; nazev: Fantomas; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(190 69)" d="M3.536,0A3.536,3.536,0,1,1,-3.536,0A3.536,3.536,0,1,1,3.536,0" opacity=".7" aria-label="tyden: 52; nazev: Fantomas; len: 4" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(168 191)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 46; nazev: Četník v New Yorku; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(71 54)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 20; nazev: Na samotě u lesa; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(127 38)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 35; nazev: Slunce, seno, erotika; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(63 23)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 18; nazev: Slunce, seno a pár facek; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(41 84)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 12; nazev: Fantomas se zlobí; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(19 222)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 6; nazev: Četník ve výslužbě; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(86 161)" d="M3.307,0A3.307,3.307,0,1,1,-3.307,0A3.307,3.307,0,1,1,3.307,0" opacity=".7" aria-label="tyden: 24; nazev: Léto s kovbojem; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(93 191)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 26; nazev: Četník v New Yorku; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(190 7.6)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 52; nazev: Slunce, seno, jahody; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(149 99)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 41; nazev: Fantomas kontra Scotland Yard; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(160 54)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 44; nazev: Na samotě u lesa; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(52 99)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 15; nazev: Fantomas kontra Scotland Yard; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(75 84)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 21; nazev: Fantomas se zlobí; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(22 191)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 7; nazev: Četník v New Yorku; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(19 23)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 6; nazev: Slunce, seno a pár facek; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(3.7 7.6)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 2; nazev: Slunce, seno, jahody; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(45 54)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 13; nazev: Na samotě u lesa; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(67 161)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 19; nazev: Léto s kovbojem; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(89 161)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 25; nazev: Léto s kovbojem; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(71 7.6)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 20; nazev: Slunce, seno, jahody; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(48 191)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 14; nazev: Četník v New Yorku; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(26 252)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 8; nazev: Četník a četnice; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(78 38)" d="M3.062,0A3.062,3.062,0,1,1,-3.062,0A3.062,3.062,0,1,1,3.062,0" opacity=".7" aria-label="tyden: 22; nazev: Slunce, seno, erotika; len: 2" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(0 99)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 1; nazev: Fantomas kontra Scotland Yard; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(30 23)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 9; nazev: Slunce, seno a pár facek; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(142 161)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 39; nazev: Léto s kovbojem; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(179 237)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 49; nazev: Četník a mimozemšťané; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(186 54)" d="M3.307,0A3.307,3.307,0,1,1,-3.307,0A3.307,3.307,0,1,1,3.307,0" opacity=".7" aria-label="tyden: 51; nazev: Na samotě u lesa; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(171 161)" d="M3.307,0A3.307,3.307,0,1,1,-3.307,0A3.307,3.307,0,1,1,3.307,0" opacity=".7" aria-label="tyden: 47; nazev: Léto s kovbojem; len: 3" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(93 115)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 26; nazev: Hříšný tanec; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+       <ns1:path transform="translate(22 115)" d="M2.795,0A2.795,2.795,0,1,1,-2.795,0A2.795,2.795,0,1,1,2.795,0" opacity=".7" aria-label="tyden: 7; nazev: Hříšný tanec; len: 1" aria-roledescription="circle" role="graphics-symbol"/>
+      </ns1:g>
+      <ns1:g class="mark-group role-title">
+       <ns1:g transform="translate(-130 -65)" pointer-events="none">
+        <ns1:path class="background" d="M0,0h0v0h0Z" aria-hidden="true"/>
+        <ns1:g>
+         <ns1:g class="mark-text role-title-text" aria-label="Title text 'Zdánlivě letní filmy'" aria-roledescription="title" role="graphics-symbol">
+          <ns1:text transform="translate(0,-1)" fill="#292829" font-family="'Noticia Text', Noticia, serif" font-size="12px" font-weight="bold">Zdánlivě letní filmy</ns1:text>
+         </ns1:g>
+         <ns1:g class="mark-text role-title-subtitle" aria-label="Subtitle text 'Snímky s letní tematikou nebo označované za letní klasiky v komentářích na ČSFD, které však na ČT1, ČT2 Nově a Primě nepatří jednoznačně do prázdninových schémat. Opět jde o přehled repríz v letech 2015 až 2024.'" aria-roledescription="subtitle" role="graphics-symbol">
+          <ns1:text transform="translate(0 18)" fill="#292829" font-family="'Noticia Text', Noticia, serif" font-size="9.3px">
+           <ns1:tspan>Snímky s letní tematikou nebo označované za letní klasiky v komentářích</ns1:tspan>
+           <ns1:tspan x="0" dy="15">na ČSFD, které však na ČT1, ČT2 Nově a Primě nepatří jednoznačně do</ns1:tspan>
+           <ns1:tspan x="0" dy="15">prázdninových schémat. Opět jde o přehled repríz v letech 2015 až 2024.</ns1:tspan>
+          </ns1:text>
+         </ns1:g>
+        </ns1:g>
+        <ns1:path class="foreground" d="" display="none" aria-hidden="true"/>
+       </ns1:g>
+      </ns1:g>
+     </ns1:g>
+     <ns1:path class="foreground" d="" display="none" aria-hidden="true"/>
+    </ns1:g>
+   </ns1:g>
+  </ns1:g>
+ </g>
+ <g transform="translate(137,382)">
+  <ns0:rect width="200" height="17" fill="white" xmlns:ns0="http://www.w3.org/2000/svg"/>
+  <ns1:g transform="translate(0)" fill="none" stroke-miterlimit="10" xmlns:ns1="http://www.w3.org/2000/svg">
+   <ns1:g class="mark-group role-frame root" aria-roledescription="group mark container" role="graphics-object">
+    <ns1:g transform="translate(0)">
+     <ns1:path class="background" d="M0.5,0.5h200v15h-200Z" aria-hidden="true"/>
+     <ns1:g>
+      <ns1:g class="mark-text role-mark marks" aria-roledescription="text mark container" role="graphics-object">
+       <ns1:text transform="translate(195 14)" fill="#292829" font-family="Asap" font-size="8px" text-anchor="end" aria-label="text: vizualizace: iROZHLAS.cz | televizní programy: fdb.cz" aria-roledescription="text mark" role="graphics-symbol">vizualizace: iROZHLAS.cz | televizní programy: fdb.cz</ns1:text>
+      </ns1:g>
+     </ns1:g>
+     <ns1:path class="foreground" d="" display="none" aria-hidden="true"/>
+    </ns1:g>
+   </ns1:g>
+  </ns1:g>
+ </g>
+</svg>
