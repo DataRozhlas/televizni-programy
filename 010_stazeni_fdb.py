@@ -53,7 +53,7 @@ def stahni_fdb(datum):
 def vygeneruj_data():
     
     start = date.fromisoformat("2007-01-01")
-    end = date.fromisoformat("2025-04-16")
+    end = date.fromisoformat(date.today().isoformat())
     seznam = [start.strftime('%Y-%m-%d')]
 
     while start <= end:
