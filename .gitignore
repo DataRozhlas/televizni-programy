@@ -1,6 +1,7 @@
 downloads/
 data_raw/
-data/
+data/*.parquet
+grafy/
 src/
 img/
 .ipynb_checkpoints/
